@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -Dspring.profiles.active=pre $JAVA_OPTS -jar target/4bet-0.0.1-SNAPSHOT.jar
